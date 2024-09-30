@@ -1,4 +1,4 @@
-# Code---Cuisine
+# Code-Cuisine
 "Excited to share my latest project, Code Cuisine!
 
 I've created an online menu and bill counter system for 7 Sea Restaurant using C programming language. This project allows customers to:
